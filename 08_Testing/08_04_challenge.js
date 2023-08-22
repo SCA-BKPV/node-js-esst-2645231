@@ -1,6 +1,9 @@
 import test from "node:test";
 import assert from "node:assert";
 
+
+console.log('Hallo Andrew');
+
 test("My Group", (t) => {
   let array = ["foo"];
 
